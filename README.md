@@ -16,7 +16,7 @@ In this project, I focused on fetching live COVID-19 data using APIs and showing
 - run 'npm install' to install dependencies.
 - Run 'npm start' to start the project
 
-# Live link :  
+# Live link :  https://leadtorev-covid-19-dashboard.netlify.app/
 
 Thank you
 
