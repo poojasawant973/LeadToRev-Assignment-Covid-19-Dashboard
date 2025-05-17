@@ -1,23 +1,39 @@
 # LeadToRev-Assignment-Covid-19-Dashboard
+
 This Project is a COVID-19 dashboard build using React.js. It shows covid-19 data like total cases, recoveries and deaths for different countries.
 
-In this project, I focused on fetching live COVID-19 data using APIs and showingn it nicely charts and stats. I change the UI from the mockup and designed my own version. It looks different, but I kept full focus on functionality and user experience. 
+For this project, I worked on fetching real-time data from APIs and displaying it with charts and stats in a clean way. I didn't just copy the mockup - I changed the UI and made my own version that looks different but keeps everything working well and easy to use.
 
-# Features
+## Features
+
 - Show total COVID-19 cases, deaths, and recoveries
 - You can choose any country from the dropdown
-- Loader and error handling are added 
-- Fully responsive - works on mobile and desktop
+- Loader while data is loading and error handling if something goes wrong
+- Fully responsive - Works well on both phones and desktop
 
 
-## How to run
+## How to run this project
 
-- clone the repo
+- clone this repo
 - run 'npm install' to install dependencies.
 - Run 'npm start' to start the project
+- open http://localhost:3000 in your browser to see it
 
-# Live link :  https://leadtorev-covid-19-dashboard.netlify.app/
 
-Thank you
+## Techonologies I used
+
+- React
+- Recharts for charts
+- Tailwind CSS for styling
+- Lucide React icons
+- Lodash for utility functions
+- disease.sh API to get COVID-19 data
+
+## Live demo link:
+https://leadtorev-covid-19-dashboard.netlify.app/
+
+I build everything myself, focused on keeping it simple and working well. If you want, you can suggest improvements or ask questions.
+
+Thanks for checking out my project!
 
 
