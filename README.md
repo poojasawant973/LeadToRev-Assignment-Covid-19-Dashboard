@@ -30,7 +30,11 @@ For this project, I worked on fetching real-time data from APIs and displaying i
 - disease.sh API to get COVID-19 data
 
 ## Live demo link:
-https://leadtorev-covid-19-dashboard.netlify.app/
+<!-- https://leadtorev-covid-19-dashboard.netlify.app/ -->
+
+I updated the UI after the initial submission to improve the look and user experience. This live link shows the newest version. 
+
+https://leadtorev-dashboard-covid-19.netlify.app/
 
 I build everything myself, focused on keeping it simple and working well. If you want, you can suggest improvements or ask questions.
 
